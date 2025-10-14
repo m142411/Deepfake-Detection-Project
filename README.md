@@ -22,4 +22,5 @@ This project implements a CNN to classify images as **REAL** or **AI-generated (
 
 ```bash
 # Install required packages
-pip install tensorflow keras matplotlib kagglehub
+pip install tensorflow keras matplotlib
+
